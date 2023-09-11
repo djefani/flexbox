@@ -11,6 +11,22 @@
     display: none;
 }
 
+/*MENU*/
+.menu__container{
+    position: fixed;
+    bottom: 0%;
+    height: 74px;
+    width: 100%;
+}
+
+/* SEÇÃO SUPERIOR*/
+.superior__secao__container {
+    display: flex;
+    align-items: center;
+    white-space: nowrap;
+    overflow: scroll;
+    gap: 15px;
+}
 
 /* RODAPE */
 .rodape__container {
